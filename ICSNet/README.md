@@ -58,8 +58,8 @@ python detect.py
 We provide example images of NICE-II in `/test_images/`, if environment is correctly, the output should look like
 
 <center>
-    <img src="./test_images/0001.jpg" alt="image" style="zoom:50%;">
-    <img src="./out_images/0001.jpg" alt="image" style="zoom:50%;">
+    <img src="./test_images/0001.jpg" alt="image" style="zoom:25%;">
+    <img src="./out_images/0001.jpg" alt="image" style="zoom:25%;">
 </center>
 
 
