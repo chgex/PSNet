@@ -14,11 +14,11 @@ The paper link will be updated in the near future.
 
 ### Demo
 
-please click [here](./demo.readme.md).
+please click [here](./demo.README.md).
 
 ### Previous work
 
-please read [icsnet](./ICSNet/read.md).
+please read [icsnet](./ICSNet/readme.md).
 
 
 
