@@ -16,9 +16,6 @@ The paper link will be updated in the near future.
 
 https://github.com/chgex/PSNet/assets/56501904/780587c4-1dee-426e-9943-d1bb5609ae3b
 
----------------------
-https://github.com/chgex/PSNet/blob/main/demo/__md__/t2.avi
-
 more details, please click [here](./demo/).
 
 
