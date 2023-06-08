@@ -14,7 +14,11 @@ The paper link will be updated in the near future.
 
 ### Demo
 
-please click [here](./demo/).
+https://github.com/chgex/PSNet/assets/56501904/780587c4-1dee-426e-9943-d1bb5609ae3b
+
+
+more details, please click [here](./demo/).
+
 
 ### Previous work
 
