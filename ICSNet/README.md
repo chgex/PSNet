@@ -10,8 +10,7 @@ We propose a simple yet efficient anchor-free Iris Center localization and Segme
 
 
 
-![img](./__md__/arch.png)
-
+<img src="./__md__/arch.png" width="85%">
 
 
 ## Dataset
@@ -57,7 +56,7 @@ python detect.py
 
 We provide example images of NICE-II in `/test_images/`, if environment is correctly, the output should look like
 
-<img src="./__md__/sample.png" alt="img" style="zoom:50%;" />
+<img src="./__md__/sample.png" width="85%">
 
 
 ## Evaluation and Training
