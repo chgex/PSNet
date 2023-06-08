@@ -10,7 +10,7 @@ You can download trained weights from there: [Google Drive](https://drive.google
 
 ### Demo
 
-from click [here](../demo/).
+please click [here](../demo/).
 
 
 
