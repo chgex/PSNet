@@ -32,7 +32,8 @@ open the camera first, ant then, run script:
 ## Demo
 
 The first demo in "__md__/t1.gif".
-![](__md__/t1.gif)
+
+<img src="__md__/__md__/t1.gif" style="zoom:35%;" />
 
 
 The second demo is a video, in "__md__/t2.avi".
