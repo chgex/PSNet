@@ -9,7 +9,7 @@ The paper link will be updated in the near future.
 
 ### Methods
 
-![](__md__/IrisDtNet-arch.png)
+<img src="__md__/IrisDtNet-arch.png" width="35%">
 
 
 ### Demo
