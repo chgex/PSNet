@@ -9,7 +9,7 @@ The paper link will be updated in the near future.
 
 ### Methods
 
-<img src="__md__/IrisDtNet-arch.png" width="80%">
+<img src="./PSNet/__md__/IrisDtNet-arch.png" width="80%">
 
 
 ### Demo
