@@ -14,7 +14,7 @@ The paper link will be updated in the near future.
 
 ### Demo
 
-please click [here](./demo.README.md).
+please click [here](./demo/README.md).
 
 ### Previous work
 
