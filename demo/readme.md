@@ -1,10 +1,10 @@
 
 
-## Introduction
+## 1. Introduction
 
 The demo of using PSNet to segment and locate iris.
 
-## How to use
+## 2. How to use
 
 ### detect and segment iris from eye images:
 "./images-001" has some sample of eye images, you can run script directly:
@@ -29,14 +29,13 @@ open the camera first, ant then, run script:
    python detect_cam.py 
 ```
 
-## Demo
+## 3. Demo
 
-The first demo in "__md__/t1.gif".
+The first demo in `__md__/t1.gif`.
 
 <img src="__md__/t1.gif" width="30%">
 
-The second demo is a video, in "__md__/t2.avi".
-![](__md__/t2.avi)
+The second demo is a video, in `__md__/t2.avi`.
 
 
 
