@@ -13,8 +13,7 @@ The paper link will be updated in the near future.
 
 ### Use
 
-Using project directly, please click [here](./demo/) and run `detect_cam.py`.
-
+Simply clone the project [demo](./demo/) and run `detect_cam.py`, then you can use it directly.
 
 ### Demo
 
