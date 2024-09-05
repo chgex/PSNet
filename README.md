@@ -17,8 +17,7 @@ Simply clone the project [demo](./demo/) and run `detect_cam.py`, then you can u
 
 ### Demo
 
-https://github.com/chgex/PSNet/assets/56501904/780587c4-1dee-426e-9943-d1bb5609ae3b
-
+<img src="./demo/__md__/t1.gif" width="30%">
 
 ### Previous work
 
